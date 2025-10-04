@@ -19,8 +19,8 @@ Phân tích & Thiết kế hệ thống đặt phòng khách sạn theo quy trì
 - 🖼 **Use Case Diagram:** ![UML-PICTURES/UseCase.png](UML-PICTURES/USECASE.png)
 - 🖼 **Sequence Diagram (Booking):** ![UML-PICTURES/Sequence_Booking.png](UML-PICTURES/Sequence-DAT-PHONG.png)
 - 🖼 **Sequence Diagram (Check-in/Check-out):** ![UML-PICTURES/Sequence_CheckInOut.png](UML-PICTURES/Sequence-IN-OUT.png)
-- 🖼 **ERD:** ![UML-PICTURES/ERD.png](./UML-PICTURES/ERD.png)
-
+- 🖼 **ERD:**  
+  ![ERD Diagram](UML-PICTURES/ERD.png)
 
 ## Sprint plan
 | Sprint | Nội dung chính | Mục tiêu |
