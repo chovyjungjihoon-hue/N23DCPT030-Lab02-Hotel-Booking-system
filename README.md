@@ -16,10 +16,10 @@ Phân tích & Thiết kế hệ thống đặt phòng khách sạn theo quy trì
 - Đồng bộ tài liệu và mô hình lên **GitHub** (README, hình UML, mô tả)
 ## Thiết kế UML
 
-- 🖼 **Use Case Diagram:** ![UML-PICTURES/UseCase.png](UML-PICTURES/USECASE.png)
-- 🖼 **Sequence Diagram (Booking):** ![UML-PICTURES/Sequence_Booking.png](UML-PICTURES/Sequence-DAT-PHONG.png)
-- 🖼 **Sequence Diagram (Check-in/Check-out):** ![UML-PICTURES/Sequence_CheckInOut.png](UML-PICTURES/Sequence-IN-OUT.png)
-- 🖼 **ERD:**  
+- **Use Case Diagram:** ![UML-PICTURES/UseCase.png](UML-PICTURES/USECASE.png)
+- **Sequence Diagram (Booking):** ![UML-PICTURES/Sequence_Booking.png](UML-PICTURES/Sequence-DAT-PHONG.png)
+- **Sequence Diagram (Check-in/Check-out):** ![UML-PICTURES/Sequence_CheckInOut.png](UML-PICTURES/Sequence-IN-OUT.png)
+- **ERD:**  
   ![ERD Diagram](UML-PICTURES/ERD.png)
 
 ## Sprint plan
