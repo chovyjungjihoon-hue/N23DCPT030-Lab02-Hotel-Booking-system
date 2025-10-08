@@ -36,6 +36,8 @@ Phân tích & Thiết kế hệ thống đặt phòng khách sạn theo quy trì
   [Xem Backlog tại đây](https://student-team-d23cqpt01.atlassian.net/jira/software/projects/HBS/boards/134)
 - **Timeline (Roadmap):**  
   [Xem Timeline](https://student-team-d23cqpt01.atlassian.net/jira/software/projects/HBS/boards/134/timeline?selectedIssue=HBS-7)
+- **Jira Board:**  
+  🔗 [Hotel Booking System Jira](https://student-team-d23cqpt01.atlassian.net/jira/software/projects/HBS/summary)
 
 ---
 ## Thông tin sinh viên
@@ -45,8 +47,6 @@ Phân tích & Thiết kế hệ thống đặt phòng khách sạn theo quy trì
 - **Giảng viên hướng dẫn:** Thầy Châu Văn Vân  
 - **GitHub Repository:**  
   🔗 [https://github.com/chovyjungjihoon-hue/N23DCPT030-Hotel-Booking-system](https://github.com/chovyjungjihoon-hue/N23DCPT030-Hotel-Booking-system)
-- **Jira Board:**  
-  🔗 [Hotel Booking System Jira](https://student-team-d23cqpt01.atlassian.net/jira/software/projects/HBS/summary)
 
 ---
 
