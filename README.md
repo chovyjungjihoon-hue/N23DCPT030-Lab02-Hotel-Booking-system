@@ -32,11 +32,6 @@ Phân tích & Thiết kế hệ thống đặt phòng khách sạn theo quy trì
 
 
 ## 🔗Jira Project
-- **Backlog:**  
-  [Xem Backlog tại đây](https://student-team-d23cqpt01.atlassian.net/jira/software/projects/HBS/boards/134)
-- **Timeline (Roadmap):**  
-  [Xem Timeline](https://student-team-d23cqpt01.atlassian.net/jira/software/projects/HBS/boards/134/timeline?selectedIssue=HBS-7)
-- **Jira Board:**  
   🔗 [Hotel Booking System Jira](https://student-team-d23cqpt01.atlassian.net/jira/software/projects/HBS/summary)
 
 ---
